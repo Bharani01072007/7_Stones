@@ -1,0 +1,6 @@
+{
+  "name": "Seven Stones 3D",
+  "description": "A 3D outdoor sports game of Seven Stones (Lagori / Pittu) with real-time physics, AI teammates & opponents, authentic rules, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
